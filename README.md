@@ -1,1 +1,4 @@
-# workshop-31-Acmee-Empolyees
+# Workshop Acme Employees 
+
+- see instructions in canvas
+
